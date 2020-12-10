@@ -1,5 +1,5 @@
 # Signing Firefox Extensions
-Sign Firefox XPI/Addons to validate/publish in extension store
+Sign Firefox XPI/Addons to validate/publish to extension store
 
 ## Getting Started
 This project assumes that you already have the required API/Secret keys to sign.
