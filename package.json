@@ -1,0 +1,15 @@
+{
+  "name": "firefox-signing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sign-firefox-xpi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web-ext": "^5.4.1"
+  }
+}
