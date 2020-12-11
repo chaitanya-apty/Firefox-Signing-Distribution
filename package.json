@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node sign-firefox-xpi.js",
+    "start": "node web-ext.js",
+    "experiment": "node sign.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web-ext": "^5.4.1"
+    "sign-addon": "3.1.0",
+    "web-ext": "5.4.1"
   }
 }

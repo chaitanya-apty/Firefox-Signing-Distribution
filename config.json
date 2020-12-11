@@ -1,0 +1,13 @@
+{
+    "EXTRACTED_XPI_FOLDER_PATH": "./client-firefox-4.4.1",
+    "API_SECRET": "a94caea5aa4babcb583916e1ec95d2d710b5cb8f685f9d6c1767bc8dc32b2700",
+    "API_KEY": "user:16297521:216",
+    "DESTINATION": "./builds",
+    "CREATE_EXTENSION_ID": true,
+    
+    
+    "EXPERIMENT_BELOW": true,
+    "VERSION": "4.4.1",
+    "XPI_PATH": "./firefox.xpi",
+    "EXTENSION_ID": "<.webextenionID if you have>"
+}
